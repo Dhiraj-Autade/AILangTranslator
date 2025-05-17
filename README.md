@@ -1,6 +1,6 @@
 # AI Language translator
 
-Simple tool to translate any given input to desired output.
+Simple tool to translate any given input to desired output in multiple languages.
 
 #### Build Process
 Inside project directory
